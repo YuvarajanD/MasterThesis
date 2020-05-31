@@ -1,0 +1,25 @@
+﻿x,hue,y
+Accuracy \nUnbalanced MN,Random Forest,0.85
+Accuracy \nUnbalanced MN,SVM,0.84
+Accuracy \nUnbalanced MN,Gradient Boost,0.84
+Accuracy \nUnbalanced MN,XGBoost,0.84
+Accuracy Unbalanced MNC,Random Forest,0.86
+Accuracy Unbalanced MNC,SVM,0.86
+Accuracy Unbalanced MNC,Gradient Boost,0.86
+Accuracy Unbalanced MNC,XGBoost,0.86
+Accuracy Unbalanced MUS,Random Forest,0.87
+Accuracy Unbalanced MUS,SVM,0.87
+Accuracy Unbalanced MUS,Gradient Boost,0.86
+Accuracy Unbalanced MUS,XGBoost,0.87
+AUC ROC Unbalanced MN,Random Forest,0.57
+AUC ROC Unbalanced MN,SVM,0.5
+AUC ROC Unbalanced MN,Gradient Boost,0.5
+AUC ROC Unbalanced MN,XGBoost,0.5
+AUC ROC Unbalanced MNC,Random Forest,0.5
+AUC ROC Unbalanced MNC,SVM,0.5
+AUC ROC Unbalanced MNC,Gradient Boost,0.51
+AUC ROC Unbalanced MNC,XGBoost,0.52
+AUC ROC Unbalanced MUS,Random Forest,0.51
+AUC ROC Unbalanced MUS,SVM,0.5
+AUC ROC Unbalanced MUS,Gradient Boost,0.5
+AUC ROC Unbalanced MUS,XGBoost,0.51
